@@ -1,0 +1,1488 @@
+,0,1
+0,system administrator,chicago
+1,product manager,san francisco
+2,data scientist,"washington, dc"
+3,product manager,seattle
+4,site reliability engineer,san francisco
+5,product manager,chicago
+6,devops engineer,philadelphia
+7,devops engineer,"washington, dc"
+8,data scientist,chicago
+9,data scientist,seattle
+10,site reliability engineer,san francisco
+11,front end engineer,san francisco
+12,product manager,san francisco
+13,full stack developer,philadelphia
+14,data scientist,chicago
+15,devops engineer,san francisco
+16,system administrator,los angeles
+17,front end engineer,boston
+18,data engineer,los angeles
+19,data engineer,san francisco
+20,product manager,boston
+21,data engineer,austin
+22,product manager,chicago
+23,devops engineer,"washington, dc"
+24,product manager,provo
+25,product manager,san francisco
+26,data engineer,los angeles
+27,front end developer,boulder
+28,data scientist,san francisco
+29,data scientist,philadelphia
+30,product manager,san francisco
+31,machine learning engineer,new york
+32,data engineer,"washington, dc"
+33,database administrator,"washington, dc"
+34,devops engineer,"washington, dc"
+35,data engineer,seattle
+36,product manager,austin
+37,system administrator,"washington, dc"
+38,site reliability engineer,new york
+39,system administrator,"washington, dc"
+40,devops engineer,chicago
+41,database administrator,boston
+42,devops engineer,san francisco
+43,product manager,san francisco
+44,full stack developer,los angeles
+45,system administrator,san francisco
+46,system administrator,philadelphia
+47,data scientist,philadelphia
+48,product manager,new york
+49,product manager,new york
+50,devops engineer,boston
+51,data scientist,san francisco
+52,data scientist,boston
+53,full stack engineer,philadelphia
+54,data engineer,los angeles
+55,full stack developer,chicago
+56,system administrator,"washington, dc"
+57,data scientist,san francisco
+58,devops engineer,new york
+59,product manager,boston
+60,database administrator,charlotte
+61,devops engineer,los angeles
+62,devops engineer,los angeles
+63,product manager,san diego
+64,chief information officer,"washington, dc"
+65,front end developer,san diego
+66,product manager,new york
+67,database administrator,austin
+68,full stack developer,los angeles
+69,data engineer,san francisco
+70,system administrator,"washington, dc"
+71,data scientist,philadelphia
+72,data engineer,philadelphia
+73,product manager,austin
+74,product manager,boston
+75,data scientist,"washington, dc"
+76,product manager,chicago
+77,front end developer,boston
+78,database administrator,boston
+79,data scientist,boulder
+80,front end developer,san diego
+81,full stack engineer,provo
+82,front end engineer,"washington, dc"
+83,product manager,seattle
+84,site reliability engineer,boston
+85,product manager,boulder
+86,product manager,philadelphia
+87,data scientist,san diego
+88,data engineer,los angeles
+89,devops engineer,chicago
+90,product manager,chicago
+91,devops engineer,boston
+92,product manager,"washington, dc"
+93,data engineer,chicago
+94,system administrator,austin
+95,data engineer,chicago
+96,product manager,provo
+97,devops engineer,chicago
+98,data scientist,austin
+99,full stack engineer,san francisco
+100,product manager,san francisco
+101,data engineer,philadelphia
+102,system administrator,"washington, dc"
+103,product manager,san francisco
+104,devops engineer,new york
+105,data engineer,chicago
+106,product manager,philadelphia
+107,database administrator,chicago
+108,system administrator,"washington, dc"
+109,database administrator,provo
+110,devops engineer,boston
+111,system administrator,san francisco
+112,front end developer,los angeles
+113,product manager,austin
+114,site reliability engineer,chicago
+115,system administrator,philadelphia
+116,system administrator,"washington, dc"
+117,devops engineer,san francisco
+118,data scientist,san francisco
+119,site reliability engineer,new york
+120,devops engineer,boulder
+121,web designer,san francisco
+122,machine learning engineer,san francisco
+123,full stack developer,los angeles
+124,machine learning engineer,san francisco
+125,system administrator,chicago
+126,data scientist,san francisco
+127,system administrator,boston
+128,product manager,san francisco
+129,full stack developer,philadelphia
+130,full stack developer,chicago
+131,full stack engineer,san francisco
+132,product manager,new york
+133,full stack engineer,"washington, dc"
+134,full stack developer,"washington, dc"
+135,product manager,seattle
+136,system administrator,chicago
+137,front end engineer,chicago
+138,product manager,seattle
+139,devops engineer,los angeles
+140,full stack developer,"washington, dc"
+141,product manager,boston
+142,product manager,los angeles
+143,data scientist,new york
+144,product manager,los angeles
+145,data scientist,chicago
+146,web designer,new york
+147,back end developer,los angeles
+148,product manager,san francisco
+149,product manager,san diego
+150,full stack developer,boston
+151,data scientist,san diego
+152,data scientist,austin
+153,data engineer,austin
+154,product manager,new york
+155,front end developer,san francisco
+156,data scientist,"washington, dc"
+157,product manager,boston
+158,front end developer,san francisco
+159,front end engineer,philadelphia
+160,front end engineer,san francisco
+161,web designer,new york
+162,product manager,seattle
+163,product manager,philadelphia
+164,front end engineer,san francisco
+165,devops engineer,san francisco
+166,data scientist,new york
+167,data scientist,"washington, dc"
+168,product manager,seattle
+169,devops engineer,philadelphia
+170,database administrator,austin
+171,data engineer,los angeles
+172,product manager,san francisco
+173,database administrator,"washington, dc"
+174,data scientist,san francisco
+175,product manager,boston
+176,system administrator,chicago
+177,product manager,new york
+178,product manager,san diego
+179,data engineer,san francisco
+180,front end developer,new york
+181,data engineer,san francisco
+182,product manager,new york
+183,site reliability engineer,philadelphia
+184,product manager,philadelphia
+185,full stack developer,charlotte
+186,data scientist,"washington, dc"
+187,product manager,san francisco
+188,product manager,los angeles
+189,database administrator,chicago
+190,product manager,san francisco
+191,product manager,philadelphia
+192,product manager,new york
+193,product manager,san francisco
+194,data scientist,san francisco
+195,devops engineer,"washington, dc"
+196,system administrator,"washington, dc"
+197,product manager,los angeles
+198,front end developer,"washington, dc"
+199,full stack developer,chicago
+200,database administrator,"washington, dc"
+201,devops engineer,"washington, dc"
+202,system administrator,"washington, dc"
+203,full stack engineer,san francisco
+204,data scientist,san francisco
+205,product manager,san francisco
+206,product manager,austin
+207,full stack developer,"washington, dc"
+208,product manager,chicago
+209,product manager,seattle
+210,full stack engineer,san francisco
+211,data scientist,"washington, dc"
+212,product manager,san francisco
+213,data engineer,seattle
+214,data scientist,san francisco
+215,data scientist,new york
+216,product manager,san francisco
+217,product manager,new york
+218,data scientist,boulder
+219,devops engineer,philadelphia
+220,data scientist,boston
+221,system administrator,new york
+222,product manager,san francisco
+223,data engineer,new york
+224,product manager,new york
+225,product manager,new york
+226,devops engineer,los angeles
+227,data scientist,"washington, dc"
+228,product manager,boston
+229,devops engineer,philadelphia
+230,database administrator,philadelphia
+231,product manager,austin
+232,data scientist,san diego
+233,product manager,new york
+234,devops engineer,san francisco
+235,devops engineer,san diego
+236,data engineer,san francisco
+237,product manager,los angeles
+238,full stack engineer,san francisco
+239,system administrator,"washington, dc"
+240,data engineer,new york
+241,front end developer,"washington, dc"
+242,data scientist,boston
+243,chief technology officer,seattle
+244,product manager,boston
+245,devops engineer,boston
+246,product manager,san francisco
+247,devops engineer,austin
+248,full stack engineer,philadelphia
+249,system administrator,philadelphia
+250,product manager,san diego
+251,front end developer,austin
+252,product manager,san francisco
+253,data scientist,philadelphia
+254,back end engineer,new york
+255,devops engineer,chicago
+256,product manager,"washington, dc"
+257,data scientist,"washington, dc"
+258,product manager,san francisco
+259,front end developer,new york
+260,data engineer,san francisco
+261,database administrator,"washington, dc"
+262,product manager,new york
+263,system administrator,"washington, dc"
+264,data scientist,new york
+265,product manager,philadelphia
+266,machine learning engineer,philadelphia
+267,product manager,seattle
+268,chief technology officer,san francisco
+269,devops engineer,"washington, dc"
+270,data scientist,los angeles
+271,back end engineer,san francisco
+272,product manager,boston
+273,site reliability engineer,san francisco
+274,product manager,"washington, dc"
+275,front end developer,philadelphia
+276,full stack developer,austin
+277,data engineer,san francisco
+278,data engineer,new york
+279,product manager,san francisco
+280,data scientist,san francisco
+281,product manager,seattle
+282,front end developer,"washington, dc"
+283,product manager,san francisco
+284,system administrator,los angeles
+285,devops engineer,san francisco
+286,product manager,san francisco
+287,product manager,new york
+288,devops engineer,san diego
+289,product manager,chicago
+290,product manager,san francisco
+291,system administrator,boulder
+292,data engineer,los angeles
+293,full stack engineer,"washington, dc"
+294,full stack developer,charlotte
+295,data scientist,new york
+296,product manager,san francisco
+297,data engineer,"washington, dc"
+298,product manager,san francisco
+299,machine learning engineer,"washington, dc"
+300,front end engineer,san diego
+301,system administrator,"washington, dc"
+302,full stack engineer,los angeles
+303,data scientist,boulder
+304,devops engineer,"washington, dc"
+305,full stack developer,san francisco
+306,system administrator,"washington, dc"
+307,back end developer,new york
+308,data scientist,san francisco
+309,site reliability engineer,san francisco
+310,product manager,boulder
+311,product manager,san francisco
+312,site reliability engineer,san francisco
+313,product manager,san francisco
+314,product manager,san francisco
+315,product manager,los angeles
+316,front end engineer,san diego
+317,system administrator,"washington, dc"
+318,product manager,philadelphia
+319,full stack engineer,chicago
+320,product manager,boston
+321,front end developer,boston
+322,product manager,san francisco
+323,product manager,boston
+324,full stack engineer,boston
+325,product manager,san francisco
+326,data scientist,philadelphia
+327,devops engineer,philadelphia
+328,product manager,chicago
+329,machine learning engineer,san francisco
+330,front end engineer,new york
+331,product manager,los angeles
+332,product manager,los angeles
+333,database administrator,san francisco
+334,data scientist,"washington, dc"
+335,data scientist,los angeles
+336,product manager,new york
+337,product manager,boston
+338,data scientist,los angeles
+339,data scientist,philadelphia
+340,data scientist,philadelphia
+341,data scientist,san francisco
+342,data engineer,boston
+343,data scientist,charlotte
+344,system administrator,"washington, dc"
+345,data engineer,boston
+346,devops engineer,provo
+347,product manager,boulder
+348,data engineer,chicago
+349,product manager,san francisco
+350,full stack engineer,san francisco
+351,full stack developer,charlotte
+352,product manager,san francisco
+353,system administrator,boulder
+354,data engineer,charlotte
+355,product manager,new york
+356,product manager,new york
+357,product manager,san francisco
+358,full stack developer,philadelphia
+359,system administrator,boulder
+360,data scientist,chicago
+361,data engineer,los angeles
+362,data engineer,"washington, dc"
+363,product manager,san francisco
+364,product manager,provo
+365,product manager,seattle
+366,product manager,new york
+367,devops engineer,san francisco
+368,devops engineer,"washington, dc"
+369,product manager,san francisco
+370,devops engineer,san francisco
+371,database administrator,chicago
+372,data engineer,chicago
+373,data engineer,philadelphia
+374,product manager,philadelphia
+375,product manager,philadelphia
+376,devops engineer,san diego
+377,front end developer,chicago
+378,devops engineer,charlotte
+379,product manager,boulder
+380,system administrator,provo
+381,data engineer,boston
+382,front end engineer,"washington, dc"
+383,system administrator,philadelphia
+384,devops engineer,new york
+385,data scientist,austin
+386,data scientist,boston
+387,machine learning engineer,san francisco
+388,front end engineer,philadelphia
+389,product manager,san francisco
+390,system administrator,"washington, dc"
+391,site reliability engineer,boston
+392,devops engineer,san francisco
+393,product manager,"washington, dc"
+394,database administrator,chicago
+395,devops engineer,boston
+396,product manager,provo
+397,database administrator,boston
+398,data engineer,"washington, dc"
+399,system administrator,austin
+400,product manager,san francisco
+401,front end developer,san francisco
+402,devops engineer,"washington, dc"
+403,data scientist,san francisco
+404,full stack developer,philadelphia
+405,data scientist,chicago
+406,front end developer,boston
+407,devops engineer,san francisco
+408,devops engineer,boulder
+409,product manager,los angeles
+410,devops engineer,san diego
+411,devops engineer,new york
+412,product manager,seattle
+413,product manager,new york
+414,data engineer,philadelphia
+415,data scientist,new york
+416,back end developer,los angeles
+417,site reliability engineer,san francisco
+418,devops engineer,chicago
+419,product manager,san francisco
+420,data engineer,chicago
+421,data engineer,"washington, dc"
+422,product manager,"washington, dc"
+423,data engineer,seattle
+424,back end engineer,provo
+425,data engineer,san francisco
+426,data scientist,boulder
+427,devops engineer,san francisco
+428,devops engineer,san francisco
+429,product manager,seattle
+430,data scientist,san francisco
+431,devops engineer,new york
+432,product manager,seattle
+433,devops engineer,"washington, dc"
+434,product manager,charlotte
+435,system administrator,provo
+436,product manager,chicago
+437,data engineer,seattle
+438,product manager,new york
+439,devops engineer,"washington, dc"
+440,data engineer,san francisco
+441,web designer,boston
+442,front end developer,boston
+443,devops engineer,austin
+444,data engineer,san francisco
+445,product manager,chicago
+446,product manager,los angeles
+447,data engineer,"washington, dc"
+448,system administrator,"washington, dc"
+449,product manager,boulder
+450,product manager,san francisco
+451,product manager,boston
+452,machine learning engineer,boston
+453,full stack developer,"washington, dc"
+454,product manager,san francisco
+455,product manager,provo
+456,database administrator,san francisco
+457,data engineer,san francisco
+458,data scientist,"washington, dc"
+459,database administrator,"washington, dc"
+460,front end developer,new york
+461,database administrator,"washington, dc"
+462,devops engineer,philadelphia
+463,product manager,new york
+464,data scientist,new york
+465,full stack engineer,philadelphia
+466,data scientist,boston
+467,product manager,new york
+468,devops engineer,charlotte
+469,devops engineer,san francisco
+470,site reliability engineer,boston
+471,data scientist,san francisco
+472,product manager,boulder
+473,system administrator,boston
+474,product manager,provo
+475,product manager,chicago
+476,full stack developer,new york
+477,product manager,new york
+478,devops engineer,"washington, dc"
+479,data engineer,chicago
+480,front end engineer,los angeles
+481,front end developer,"washington, dc"
+482,product manager,san francisco
+483,front end engineer,boston
+484,system administrator,chicago
+485,product manager,new york
+486,full stack engineer,"washington, dc"
+487,product manager,san francisco
+488,product manager,san francisco
+489,devops engineer,"washington, dc"
+490,data engineer,new york
+491,product manager,provo
+492,front end engineer,los angeles
+493,full stack engineer,san francisco
+494,product manager,new york
+495,devops engineer,chicago
+496,data engineer,boston
+497,devops engineer,los angeles
+498,front end developer,charlotte
+499,product manager,chicago
+500,system administrator,"washington, dc"
+501,front end engineer,seattle
+502,full stack developer,los angeles
+503,database administrator,philadelphia
+504,site reliability engineer,san francisco
+505,data scientist,new york
+506,product manager,new york
+507,data scientist,"washington, dc"
+508,product manager,new york
+509,devops engineer,san francisco
+510,system administrator,boulder
+511,data engineer,san francisco
+512,web designer,new york
+513,product manager,los angeles
+514,product manager,san francisco
+515,data engineer,chicago
+516,data engineer,new york
+517,full stack engineer,new york
+518,machine learning engineer,los angeles
+519,product manager,san francisco
+520,system administrator,philadelphia
+521,data scientist,san francisco
+522,web designer,austin
+523,product manager,san francisco
+524,system administrator,"washington, dc"
+525,product manager,"washington, dc"
+526,data engineer,austin
+527,data scientist,new york
+528,front end developer,san francisco
+529,devops engineer,"washington, dc"
+530,devops engineer,"washington, dc"
+531,data engineer,new york
+532,devops engineer,boston
+533,front end developer,provo
+534,database administrator,"washington, dc"
+535,system administrator,"washington, dc"
+536,front end developer,boston
+537,back end developer,"washington, dc"
+538,system administrator,"washington, dc"
+539,product manager,"washington, dc"
+540,front end developer,"washington, dc"
+541,system administrator,boulder
+542,data engineer,new york
+543,product manager,boulder
+544,product manager,new york
+545,product manager,new york
+546,chief technology officer,"washington, dc"
+547,devops engineer,san francisco
+548,devops engineer,"washington, dc"
+549,product manager,new york
+550,devops engineer,austin
+551,full stack developer,new york
+552,product manager,provo
+553,data scientist,boston
+554,product manager,new york
+555,system administrator,philadelphia
+556,front end developer,boston
+557,product manager,seattle
+558,data scientist,new york
+559,full stack engineer,boulder
+560,product manager,san francisco
+561,data engineer,san francisco
+562,site reliability engineer,philadelphia
+563,product manager,los angeles
+564,devops engineer,san francisco
+565,full stack developer,san francisco
+566,data scientist,seattle
+567,data engineer,philadelphia
+568,product manager,"washington, dc"
+569,product manager,san francisco
+570,full stack developer,seattle
+571,product manager,san diego
+572,product manager,san francisco
+573,data scientist,chicago
+574,product manager,philadelphia
+575,mobile application engineer,boston
+576,data engineer,new york
+577,product manager,philadelphia
+578,data scientist,new york
+579,system administrator,austin
+580,data scientist,seattle
+581,product manager,charlotte
+582,product manager,boston
+583,product manager,san francisco
+584,product manager,seattle
+585,data engineer,chicago
+586,full stack developer,provo
+587,data scientist,charlotte
+588,data engineer,"washington, dc"
+589,data engineer,san francisco
+590,product manager,"washington, dc"
+591,data engineer,chicago
+592,product manager,seattle
+593,product manager,san diego
+594,full stack developer,new york
+595,machine learning engineer,san francisco
+596,database administrator,austin
+597,product manager,boulder
+598,product manager,boston
+599,site reliability engineer,seattle
+600,site reliability engineer,san francisco
+601,system administrator,boston
+602,full stack developer,"washington, dc"
+603,full stack engineer,san francisco
+604,full stack developer,seattle
+605,site reliability engineer,provo
+606,product manager,boston
+607,product manager,san francisco
+608,data engineer,los angeles
+609,product manager,austin
+610,data scientist,boston
+611,data scientist,san francisco
+612,full stack engineer,san francisco
+613,data scientist,"washington, dc"
+614,data engineer,"washington, dc"
+615,devops engineer,austin
+616,machine learning engineer,boston
+617,system administrator,"washington, dc"
+618,data scientist,charlotte
+619,data scientist,new york
+620,system administrator,"washington, dc"
+621,product manager,new york
+622,product manager,philadelphia
+623,product manager,san francisco
+624,data scientist,philadelphia
+625,product manager,san francisco
+626,data scientist,"washington, dc"
+627,product manager,boston
+628,full stack developer,"washington, dc"
+629,site reliability engineer,"washington, dc"
+630,product manager,seattle
+631,front end developer,austin
+632,data engineer,"washington, dc"
+633,product manager,seattle
+634,product manager,"washington, dc"
+635,product manager,charlotte
+636,product manager,boston
+637,product manager,philadelphia
+638,product manager,san francisco
+639,full stack developer,philadelphia
+640,data scientist,san francisco
+641,data engineer,boston
+642,product manager,seattle
+643,devops engineer,boston
+644,product manager,new york
+645,product manager,"washington, dc"
+646,machine learning engineer,"washington, dc"
+647,system administrator,"washington, dc"
+648,data engineer,philadelphia
+649,data engineer,austin
+650,web designer,boulder
+651,product manager,san francisco
+652,product manager,"washington, dc"
+653,system administrator,san francisco
+654,system administrator,philadelphia
+655,full stack engineer,"washington, dc"
+656,web designer,"washington, dc"
+657,product manager,san francisco
+658,data engineer,new york
+659,devops engineer,"washington, dc"
+660,front end developer,boston
+661,devops engineer,chicago
+662,data scientist,"washington, dc"
+663,product manager,san francisco
+664,full stack developer,boston
+665,product manager,chicago
+666,back end engineer,san francisco
+667,product manager,new york
+668,data engineer,new york
+669,data engineer,boston
+670,full stack developer,charlotte
+671,product manager,chicago
+672,product manager,san francisco
+673,machine learning engineer,"washington, dc"
+674,system administrator,philadelphia
+675,data scientist,los angeles
+676,devops engineer,boulder
+677,product manager,san francisco
+678,product manager,san francisco
+679,full stack developer,"washington, dc"
+680,system administrator,chicago
+681,product manager,new york
+682,data engineer,san francisco
+683,system administrator,"washington, dc"
+684,system administrator,boulder
+685,product manager,los angeles
+686,data engineer,"washington, dc"
+687,front end developer,"washington, dc"
+688,database administrator,"washington, dc"
+689,front end developer,boston
+690,product manager,new york
+691,data engineer,"washington, dc"
+692,system administrator,"washington, dc"
+693,site reliability engineer,chicago
+694,database administrator,"washington, dc"
+695,web designer,boston
+696,data scientist,chicago
+697,product manager,austin
+698,devops engineer,san francisco
+699,data scientist,new york
+700,product manager,los angeles
+701,devops engineer,"washington, dc"
+702,data scientist,seattle
+703,system administrator,los angeles
+704,database administrator,"washington, dc"
+705,data engineer,boston
+706,front end engineer,seattle
+707,front end engineer,san francisco
+708,data engineer,los angeles
+709,product manager,seattle
+710,data engineer,boston
+711,devops engineer,chicago
+712,full stack developer,philadelphia
+713,data scientist,san francisco
+714,database administrator,"washington, dc"
+715,machine learning engineer,san francisco
+716,product manager,chicago
+717,product manager,boston
+718,product manager,san francisco
+719,data engineer,"washington, dc"
+720,product manager,san francisco
+721,system administrator,"washington, dc"
+722,data scientist,boston
+723,full stack developer,"washington, dc"
+724,front end engineer,austin
+725,product manager,los angeles
+726,product manager,san francisco
+727,product manager,seattle
+728,chief technology officer,austin
+729,full stack engineer,san francisco
+730,back end engineer,san francisco
+731,product manager,boston
+732,data scientist,"washington, dc"
+733,product manager,san francisco
+734,data engineer,san francisco
+735,system administrator,"washington, dc"
+736,product manager,seattle
+737,front end engineer,chicago
+738,product manager,san francisco
+739,system administrator,seattle
+740,product manager,san francisco
+741,product manager,austin
+742,product manager,san francisco
+743,devops engineer,chicago
+744,product manager,san francisco
+745,product manager,los angeles
+746,site reliability engineer,san francisco
+747,system administrator,"washington, dc"
+748,product manager,san francisco
+749,system administrator,"washington, dc"
+750,data engineer,"washington, dc"
+751,front end engineer,charlotte
+752,chief information officer,philadelphia
+753,product manager,san francisco
+754,web designer,boston
+755,system administrator,"washington, dc"
+756,devops engineer,"washington, dc"
+757,data scientist,provo
+758,data engineer,seattle
+759,full stack developer,san francisco
+760,data engineer,boulder
+761,product manager,philadelphia
+762,web designer,boston
+763,devops engineer,boston
+764,product manager,philadelphia
+765,database administrator,austin
+766,embedded systems engineer,boston
+767,data engineer,new york
+768,data engineer,new york
+769,data engineer,"washington, dc"
+770,front end engineer,san francisco
+771,product manager,san francisco
+772,product manager,boston
+773,front end developer,new york
+774,system administrator,"washington, dc"
+775,product manager,philadelphia
+776,product manager,seattle
+777,product manager,boston
+778,data engineer,los angeles
+779,product manager,san francisco
+780,product manager,philadelphia
+781,product manager,los angeles
+782,full stack developer,"washington, dc"
+783,full stack developer,san francisco
+784,front end engineer,new york
+785,data scientist,new york
+786,data engineer,austin
+787,product manager,philadelphia
+788,data engineer,san francisco
+789,system administrator,philadelphia
+790,devops engineer,new york
+791,system administrator,new york
+792,system administrator,philadelphia
+793,devops engineer,boston
+794,system administrator,"washington, dc"
+795,full stack developer,los angeles
+796,site reliability engineer,san francisco
+797,data scientist,san francisco
+798,data scientist,seattle
+799,product manager,san francisco
+800,devops engineer,boulder
+801,database administrator,"washington, dc"
+802,back end developer,new york
+803,system administrator,philadelphia
+804,data scientist,new york
+805,full stack engineer,san francisco
+806,product manager,san diego
+807,data scientist,austin
+808,data scientist,san francisco
+809,machine learning engineer,san francisco
+810,product manager,san francisco
+811,product manager,new york
+812,devops engineer,san francisco
+813,machine learning engineer,boston
+814,front end developer,"washington, dc"
+815,product manager,new york
+816,data engineer,chicago
+817,full stack engineer,philadelphia
+818,full stack engineer,new york
+819,data engineer,chicago
+820,product manager,seattle
+821,full stack engineer,san francisco
+822,data scientist,new york
+823,data engineer,san francisco
+824,data engineer,philadelphia
+825,product manager,boulder
+826,data scientist,"washington, dc"
+827,system administrator,los angeles
+828,full stack engineer,los angeles
+829,data engineer,chicago
+830,database administrator,new york
+831,system administrator,boulder
+832,product manager,san francisco
+833,system administrator,austin
+834,data engineer,"washington, dc"
+835,product manager,chicago
+836,product manager,provo
+837,system administrator,"washington, dc"
+838,product manager,seattle
+839,data engineer,austin
+840,data engineer,"washington, dc"
+841,data scientist,new york
+842,devops engineer,"washington, dc"
+843,data scientist,austin
+844,machine learning engineer,philadelphia
+845,database administrator,san francisco
+846,data engineer,charlotte
+847,full stack developer,new york
+848,product manager,seattle
+849,site reliability engineer,new york
+850,product manager,boston
+851,data scientist,philadelphia
+852,product manager,"washington, dc"
+853,product manager,san francisco
+854,system administrator,san francisco
+855,product manager,san francisco
+856,product manager,"washington, dc"
+857,database administrator,san francisco
+858,front end developer,"washington, dc"
+859,full stack engineer,boston
+860,system administrator,"washington, dc"
+861,data scientist,san francisco
+862,product manager,los angeles
+863,devops engineer,new york
+864,front end developer,new york
+865,product manager,seattle
+866,full stack engineer,san francisco
+867,product manager,philadelphia
+868,product manager,san francisco
+869,product manager,los angeles
+870,database administrator,new york
+871,product manager,boston
+872,product manager,philadelphia
+873,devops engineer,boulder
+874,system administrator,chicago
+875,site reliability engineer,san francisco
+876,full stack developer,austin
+877,data engineer,boston
+878,data scientist,san francisco
+879,data scientist,boston
+880,product manager,san francisco
+881,data scientist,philadelphia
+882,full stack developer,"washington, dc"
+883,data scientist,"washington, dc"
+884,devops engineer,boston
+885,system administrator,new york
+886,data scientist,los angeles
+887,data scientist,boston
+888,front end developer,austin
+889,product manager,san francisco
+890,product manager,san francisco
+891,product manager,san francisco
+892,site reliability engineer,san francisco
+893,product manager,provo
+894,data engineer,san francisco
+895,system administrator,boulder
+896,back end developer,new york
+897,product manager,seattle
+898,product manager,san diego
+899,devops engineer,san diego
+900,data scientist,"washington, dc"
+901,data scientist,charlotte
+902,front end developer,philadelphia
+903,database administrator,"washington, dc"
+904,product manager,san francisco
+905,data engineer,boston
+906,system administrator,new york
+907,machine learning engineer,philadelphia
+908,product manager,boulder
+909,data scientist,san francisco
+910,site reliability engineer,san francisco
+911,chief technology officer,philadelphia
+912,full stack developer,charlotte
+913,product manager,boston
+914,back end developer,charlotte
+915,back end developer,"washington, dc"
+916,data scientist,san francisco
+917,full stack developer,boulder
+918,full stack engineer,los angeles
+919,chief information officer,san francisco
+920,data scientist,san francisco
+921,data engineer,boston
+922,full stack engineer,seattle
+923,site reliability engineer,austin
+924,front end engineer,los angeles
+925,product manager,los angeles
+926,mobile application developer,san francisco
+927,front end developer,"washington, dc"
+928,system administrator,"washington, dc"
+929,product manager,austin
+930,devops engineer,"washington, dc"
+931,site reliability engineer,new york
+932,data scientist,san francisco
+933,data scientist,san francisco
+934,product manager,san francisco
+935,product manager,san francisco
+936,data scientist,"washington, dc"
+937,product manager,san francisco
+938,devops engineer,san francisco
+939,full stack developer,new york
+940,product manager,philadelphia
+941,system administrator,"washington, dc"
+942,database administrator,boston
+943,devops engineer,seattle
+944,back end engineer,new york
+945,system administrator,boston
+946,product manager,seattle
+947,product manager,san francisco
+948,product manager,seattle
+949,product manager,"washington, dc"
+950,data engineer,new york
+951,devops engineer,san francisco
+952,data scientist,philadelphia
+953,full stack engineer,san francisco
+954,product manager,new york
+955,full stack developer,los angeles
+956,devops engineer,seattle
+957,database administrator,"washington, dc"
+958,product manager,boston
+959,devops engineer,san francisco
+960,product manager,boston
+961,data engineer,san francisco
+962,data scientist,san francisco
+963,full stack developer,philadelphia
+964,data scientist,seattle
+965,product manager,chicago
+966,data engineer,"washington, dc"
+967,site reliability engineer,"washington, dc"
+968,product manager,new york
+969,site reliability engineer,san francisco
+970,product manager,san francisco
+971,product manager,new york
+972,system administrator,seattle
+973,product manager,austin
+974,data engineer,san francisco
+975,data scientist,boston
+976,data scientist,boston
+977,back end developer,chicago
+978,system administrator,boston
+979,product manager,philadelphia
+980,product manager,los angeles
+981,devops engineer,"washington, dc"
+982,data scientist,"washington, dc"
+983,product manager,san francisco
+984,product manager,philadelphia
+985,data engineer,san francisco
+986,front end developer,philadelphia
+987,front end engineer,san francisco
+988,product manager,philadelphia
+989,database administrator,boulder
+990,system administrator,san francisco
+991,devops engineer,seattle
+992,data engineer,austin
+993,site reliability engineer,seattle
+994,product manager,seattle
+995,data scientist,"washington, dc"
+996,machine learning engineer,los angeles
+997,full stack developer,san francisco
+998,data scientist,"washington, dc"
+999,product manager,seattle
+1000,product manager,san francisco
+1001,product manager,"washington, dc"
+1002,front end developer,provo
+1003,front end engineer,new york
+1004,data engineer,charlotte
+1005,product manager,new york
+1006,system administrator,"washington, dc"
+1007,database administrator,los angeles
+1008,full stack developer,boulder
+1009,data scientist,new york
+1010,front end developer,san francisco
+1011,data engineer,"washington, dc"
+1012,data scientist,los angeles
+1013,data scientist,los angeles
+1014,devops engineer,philadelphia
+1015,devops engineer,new york
+1016,data engineer,san diego
+1017,product manager,new york
+1018,full stack developer,"washington, dc"
+1019,database administrator,"washington, dc"
+1020,database administrator,los angeles
+1021,database administrator,charlotte
+1022,data scientist,"washington, dc"
+1023,front end developer,charlotte
+1024,product manager,san francisco
+1025,product manager,san francisco
+1026,devops engineer,los angeles
+1027,product manager,san francisco
+1028,data scientist,los angeles
+1029,full stack developer,boston
+1030,front end developer,chicago
+1031,front end developer,los angeles
+1032,devops engineer,chicago
+1033,product manager,san francisco
+1034,site reliability engineer,austin
+1035,system administrator,"washington, dc"
+1036,product manager,seattle
+1037,devops engineer,los angeles
+1038,system administrator,"washington, dc"
+1039,data scientist,boston
+1040,product manager,chicago
+1041,system administrator,seattle
+1042,database administrator,"washington, dc"
+1043,product manager,charlotte
+1044,product manager,san francisco
+1045,product manager,los angeles
+1046,product manager,san francisco
+1047,product manager,san francisco
+1048,front end engineer,new york
+1049,system administrator,los angeles
+1050,data scientist,san francisco
+1051,product manager,los angeles
+1052,devops engineer,boston
+1053,system administrator,san francisco
+1054,full stack engineer,austin
+1055,data scientist,los angeles
+1056,system administrator,philadelphia
+1057,site reliability engineer,"washington, dc"
+1058,data engineer,chicago
+1059,devops engineer,seattle
+1060,product manager,boston
+1061,devops engineer,san diego
+1062,web designer,seattle
+1063,devops engineer,chicago
+1064,product manager,seattle
+1065,product manager,los angeles
+1066,full stack developer,boston
+1067,devops engineer,charlotte
+1068,data scientist,"washington, dc"
+1069,full stack developer,chicago
+1070,product manager,new york
+1071,system administrator,"washington, dc"
+1072,devops engineer,chicago
+1073,product manager,charlotte
+1074,front end developer,philadelphia
+1075,product manager,san francisco
+1076,front end developer,charlotte
+1077,product manager,seattle
+1078,front end developer,charlotte
+1079,full stack engineer,seattle
+1080,data scientist,boston
+1081,product manager,los angeles
+1082,front end engineer,new york
+1083,system administrator,philadelphia
+1084,full stack engineer,san francisco
+1085,chief information officer,austin
+1086,product manager,san diego
+1087,full stack developer,"washington, dc"
+1088,front end developer,charlotte
+1089,product manager,seattle
+1090,full stack developer,philadelphia
+1091,data engineer,"washington, dc"
+1092,full stack developer,san francisco
+1093,full stack engineer,austin
+1094,front end engineer,san francisco
+1095,product manager,seattle
+1096,product manager,los angeles
+1097,front end developer,los angeles
+1098,devops engineer,boulder
+1099,system administrator,philadelphia
+1100,database administrator,philadelphia
+1101,full stack engineer,new york
+1102,devops engineer,austin
+1103,front end developer,boston
+1104,front end developer,san francisco
+1105,front end engineer,seattle
+1106,product manager,seattle
+1107,product manager,los angeles
+1108,database administrator,"washington, dc"
+1109,product manager,seattle
+1110,system administrator,"washington, dc"
+1111,front end developer,boston
+1112,database administrator,"washington, dc"
+1113,product manager,san francisco
+1114,devops engineer,boston
+1115,product manager,chicago
+1116,front end engineer,san francisco
+1117,full stack engineer,"washington, dc"
+1118,back end engineer,new york
+1119,data scientist,"washington, dc"
+1120,site reliability engineer,san francisco
+1121,data scientist,san francisco
+1122,devops engineer,san francisco
+1123,data scientist,"washington, dc"
+1124,data scientist,charlotte
+1125,product manager,"washington, dc"
+1126,product manager,boston
+1127,product manager,san francisco
+1128,product manager,"washington, dc"
+1129,data engineer,"washington, dc"
+1130,product manager,boston
+1131,data scientist,san francisco
+1132,product manager,austin
+1133,front end developer,"washington, dc"
+1134,product manager,new york
+1135,product manager,seattle
+1136,product manager,seattle
+1137,system administrator,new york
+1138,chief technology officer,san diego
+1139,full stack developer,"washington, dc"
+1140,devops engineer,san francisco
+1141,system administrator,"washington, dc"
+1142,product manager,los angeles
+1143,system administrator,"washington, dc"
+1144,site reliability engineer,charlotte
+1145,data scientist,san diego
+1146,product manager,boulder
+1147,site reliability engineer,seattle
+1148,product manager,philadelphia
+1149,data engineer,los angeles
+1150,full stack developer,philadelphia
+1151,site reliability engineer,new york
+1152,database administrator,san francisco
+1153,product manager,san francisco
+1154,data scientist,chicago
+1155,database administrator,san francisco
+1156,product manager,provo
+1157,product manager,"washington, dc"
+1158,site reliability engineer,san francisco
+1159,system administrator,"washington, dc"
+1160,embedded systems engineer,seattle
+1161,devops engineer,san diego
+1162,data engineer,san francisco
+1163,data scientist,san francisco
+1164,product manager,los angeles
+1165,front end developer,new york
+1166,product manager,chicago
+1167,product manager,chicago
+1168,site reliability engineer,"washington, dc"
+1169,product manager,los angeles
+1170,site reliability engineer,boston
+1171,data engineer,san francisco
+1172,product manager,seattle
+1173,site reliability engineer,san diego
+1174,product manager,new york
+1175,product manager,san francisco
+1176,product manager,seattle
+1177,data scientist,austin
+1178,product manager,san francisco
+1179,devops engineer,seattle
+1180,product manager,san francisco
+1181,product manager,seattle
+1182,product manager,boston
+1183,data scientist,philadelphia
+1184,product manager,"washington, dc"
+1185,back end engineer,san francisco
+1186,system administrator,san diego
+1187,data engineer,new york
+1188,full stack developer,boston
+1189,product manager,seattle
+1190,devops engineer,"washington, dc"
+1191,product manager,seattle
+1192,system administrator,"washington, dc"
+1193,product manager,san francisco
+1194,machine learning engineer,austin
+1195,data scientist,"washington, dc"
+1196,data engineer,san francisco
+1197,data engineer,los angeles
+1198,data engineer,boulder
+1199,system administrator,new york
+1200,devops engineer,chicago
+1201,product manager,philadelphia
+1202,data scientist,"washington, dc"
+1203,data engineer,san francisco
+1204,database administrator,"washington, dc"
+1205,product manager,new york
+1206,product manager,philadelphia
+1207,full stack developer,chicago
+1208,system administrator,boulder
+1209,product manager,san francisco
+1210,front end developer,boston
+1211,data scientist,boston
+1212,data scientist,"washington, dc"
+1213,product manager,san francisco
+1214,product manager,new york
+1215,front end engineer,san francisco
+1216,data scientist,philadelphia
+1217,data engineer,new york
+1218,data engineer,"washington, dc"
+1219,product manager,san francisco
+1220,product manager,san diego
+1221,site reliability engineer,"washington, dc"
+1222,devops engineer,seattle
+1223,data scientist,chicago
+1224,data engineer,seattle
+1225,mobile application developer,philadelphia
+1226,system administrator,chicago
+1227,front end developer,san francisco
+1228,front end engineer,san francisco
+1229,front end developer,"washington, dc"
+1230,devops engineer,los angeles
+1231,data scientist,boston
+1232,data scientist,san francisco
+1233,devops engineer,boston
+1234,system administrator,philadelphia
+1235,data scientist,new york
+1236,product manager,new york
+1237,system administrator,los angeles
+1238,database administrator,seattle
+1239,database administrator,san francisco
+1240,front end developer,san francisco
+1241,data scientist,chicago
+1242,product manager,"washington, dc"
+1243,product manager,san francisco
+1244,chief technology officer,"washington, dc"
+1245,product manager,chicago
+1246,site reliability engineer,los angeles
+1247,site reliability engineer,new york
+1248,devops engineer,"washington, dc"
+1249,product manager,new york
+1250,data scientist,"washington, dc"
+1251,product manager,seattle
+1252,data scientist,"washington, dc"
+1253,data engineer,"washington, dc"
+1254,full stack developer,philadelphia
+1255,data scientist,"washington, dc"
+1256,full stack developer,boston
+1257,product manager,san diego
+1258,front end developer,san diego
+1259,devops engineer,philadelphia
+1260,web designer,philadelphia
+1261,devops engineer,"washington, dc"
+1262,data engineer,los angeles
+1263,chief technology officer,new york
+1264,product manager,san francisco
+1265,data engineer,provo
+1266,product manager,boston
+1267,product manager,san francisco
+1268,data engineer,los angeles
+1269,data scientist,new york
+1270,site reliability engineer,new york
+1271,product manager,seattle
+1272,data engineer,new york
+1273,data engineer,boulder
+1274,database administrator,charlotte
+1275,site reliability engineer,austin
+1276,data engineer,san francisco
+1277,devops engineer,san francisco
+1278,web designer,"washington, dc"
+1279,full stack developer,boston
+1280,system administrator,"washington, dc"
+1281,database administrator,new york
+1282,devops engineer,san francisco
+1283,data scientist,san francisco
+1284,site reliability engineer,charlotte
+1285,system administrator,los angeles
+1286,product manager,los angeles
+1287,back end engineer,san francisco
+1288,data engineer,los angeles
+1289,product manager,seattle
+1290,front end developer,"washington, dc"
+1291,product manager,new york
+1292,chief information officer,"washington, dc"
+1293,full stack developer,"washington, dc"
+1294,system administrator,los angeles
+1295,machine learning engineer,seattle
+1296,web designer,new york
+1297,data scientist,san francisco
+1298,product manager,chicago
+1299,product manager,chicago
+1300,system administrator,"washington, dc"
+1301,back end engineer,san francisco
+1302,system administrator,"washington, dc"
+1303,product manager,austin
+1304,data scientist,chicago
+1305,product manager,los angeles
+1306,devops engineer,boston
+1307,data scientist,boulder
+1308,machine learning engineer,los angeles
+1309,product manager,boston
+1310,data scientist,philadelphia
+1311,devops engineer,provo
+1312,product manager,chicago
+1313,data engineer,san francisco
+1314,mobile application developer,"washington, dc"
+1315,front end engineer,"washington, dc"
+1316,data engineer,san francisco
+1317,data scientist,san francisco
+1318,system administrator,"washington, dc"
+1319,product manager,austin
+1320,product manager,seattle
+1321,front end developer,los angeles
+1322,devops engineer,san francisco
+1323,site reliability engineer,san francisco
+1324,product manager,philadelphia
+1325,devops engineer,new york
+1326,product manager,san francisco
+1327,product manager,philadelphia
+1328,database administrator,"washington, dc"
+1329,devops engineer,boston
+1330,product manager,chicago
+1331,data scientist,"washington, dc"
+1332,data scientist,"washington, dc"
+1333,machine learning engineer,philadelphia
+1334,product manager,seattle
+1335,embedded systems engineer,san francisco
+1336,database administrator,boston
+1337,product manager,los angeles
+1338,product manager,new york
+1339,devops engineer,"washington, dc"
+1340,product manager,los angeles
+1341,product manager,san francisco
+1342,product manager,new york
+1343,product manager,philadelphia
+1344,system administrator,"washington, dc"
+1345,system administrator,"washington, dc"
+1346,machine learning engineer,los angeles
+1347,full stack engineer,chicago
+1348,front end engineer,seattle
+1349,data engineer,"washington, dc"
+1350,database administrator,philadelphia
+1351,data engineer,chicago
+1352,product manager,los angeles
+1353,product manager,san francisco
+1354,product manager,philadelphia
+1355,devops engineer,provo
+1356,data engineer,chicago
+1357,devops engineer,san francisco
+1358,devops engineer,san francisco
+1359,product manager,philadelphia
+1360,data engineer,san diego
+1361,site reliability engineer,boston
+1362,product manager,seattle
+1363,product manager,san francisco
+1364,product manager,philadelphia
+1365,devops engineer,seattle
+1366,product manager,new york
+1367,data scientist,san francisco
+1368,front end engineer,san francisco
+1369,product manager,chicago
+1370,data scientist,"washington, dc"
+1371,product manager,philadelphia
+1372,data scientist,philadelphia
+1373,devops engineer,san francisco
+1374,data engineer,chicago
+1375,data scientist,los angeles
+1376,data engineer,boston
+1377,product manager,san francisco
+1378,product manager,seattle
+1379,devops engineer,philadelphia
+1380,data scientist,san francisco
+1381,system administrator,"washington, dc"
+1382,system administrator,philadelphia
+1383,product manager,san francisco
+1384,system administrator,"washington, dc"
+1385,system administrator,"washington, dc"
+1386,data engineer,new york
+1387,data scientist,chicago
+1388,product manager,seattle
+1389,product manager,san francisco
+1390,data scientist,san francisco
+1391,data engineer,los angeles
+1392,devops engineer,los angeles
+1393,full stack developer,philadelphia
+1394,data engineer,new york
+1395,data engineer,boston
+1396,product manager,seattle
+1397,front end engineer,seattle
+1398,data scientist,san francisco
+1399,data engineer,chicago
+1400,product manager,seattle
+1401,data engineer,seattle
+1402,product manager,boston
+1403,product manager,provo
+1404,product manager,san diego
+1405,product manager,new york
+1406,product manager,los angeles
+1407,data scientist,"washington, dc"
+1408,back end engineer,new york
+1409,product manager,seattle
+1410,system administrator,"washington, dc"
+1411,web designer,los angeles
+1412,front end developer,"washington, dc"
+1413,full stack developer,charlotte
+1414,database administrator,provo
+1415,product manager,seattle
+1416,site reliability engineer,san diego
+1417,full stack engineer,san diego
+1418,data engineer,san francisco
+1419,site reliability engineer,new york
+1420,data scientist,new york
+1421,data scientist,"washington, dc"
+1422,product manager,los angeles
+1423,front end developer,charlotte
+1424,database administrator,"washington, dc"
+1425,data engineer,chicago
+1426,product manager,"washington, dc"
+1427,back end engineer,san francisco
+1428,data engineer,san francisco
+1429,full stack engineer,seattle
+1430,data engineer,san francisco
+1431,database administrator,san francisco
+1432,full stack developer,new york
+1433,data scientist,"washington, dc"
+1434,full stack engineer,los angeles
+1435,back end developer,chicago
+1436,full stack engineer,san francisco
+1437,database administrator,chicago
+1438,system administrator,"washington, dc"
+1439,product manager,san francisco
+1440,data engineer,los angeles
+1441,machine learning engineer,austin
+1442,system administrator,"washington, dc"
+1443,product manager,boston
+1444,data scientist,chicago
+1445,database administrator,philadelphia
+1446,system administrator,seattle
+1447,product manager,san francisco
+1448,product manager,chicago
+1449,database administrator,los angeles
+1450,system administrator,"washington, dc"
+1451,product manager,seattle
+1452,product manager,los angeles
+1453,product manager,seattle
+1454,system administrator,"washington, dc"
+1455,data engineer,boulder
+1456,product manager,san francisco
+1457,data engineer,san francisco
+1458,front end developer,philadelphia
+1459,product manager,san diego
+1460,product manager,san francisco
+1461,data scientist,new york
+1462,full stack developer,"washington, dc"
+1463,product manager,chicago
+1464,system administrator,"washington, dc"
+1465,product manager,seattle
+1466,data engineer,seattle
+1467,data engineer,boulder
+1468,devops engineer,san francisco
+1469,full stack developer,san diego
+1470,product manager,san francisco
+1471,data scientist,boulder
+1472,product manager,chicago
+1473,back end developer,new york
+1474,front end engineer,san francisco
+1475,product manager,chicago
+1476,devops engineer,charlotte
+1477,data engineer,philadelphia
+1478,data engineer,san francisco
+1479,product manager,san francisco
+1480,full stack developer,charlotte
+1481,devops engineer,"washington, dc"
+1482,devops engineer,"washington, dc"
+1483,product manager,new york
+1484,data scientist,chicago
+1485,back end developer,boulder
+1486,front end developer,san francisco
